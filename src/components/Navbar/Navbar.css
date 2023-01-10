@@ -1,0 +1,53 @@
+/* .navbar-custom {
+    background-color: rgba(255,255,255,.5);
+}
+.navbar-custom .navbar-text {
+    color: #888;
+}
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #000;
+}
+*/
+    /* .navbar-custom .navbar-nav .nav-link {
+        color:#0000 ;
+    }
+
+.risk-checker{
+    color:orangered;
+}
+.other-nav-links{
+    color:#5a67d8;
+}
+.link-color{
+    columns: #000080;
+}  */
+
+.navpillbutton {
+
+    background-color: rgb(155, 152, 152);
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 16px;
+    background-color: #5a67d8;
+
+}
+.navbrand{
+
+    font-family: 'Aladin', cursive;
+    
+    font-family: 'Rancho', cursive;
+    
+    font-family: 'Sriracha', cursive;
+}
+
+.new-nav{
+    background-color: #fff;
+    ;
+}
